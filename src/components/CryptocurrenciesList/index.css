@@ -1,0 +1,43 @@
+/* Write your CSS code here */
+.mainCryptoDiv {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .cryptoImgCL {
+    width: 80%;
+    height: 300px;
+    margin-top: 10px;
+  }
+  
+  .cryptoH1 {
+    color: #00e7ff;
+  }
+  
+  .cryptoListMAinCL {
+    padding: 0px 30px;
+  }
+  
+  .moneyRelatedDiv {
+    display: flex;
+  }
+  
+  .headingRelatedToMoney {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    color: white;
+    background-color: #02322f;
+    margin-bottom: 20px;
+  }
+  .usdDiv {
+    margin-right: 50px;
+  }
+  
+  .cryptoItemDiv {
+    border: 2px solid #00e7ff;
+    border-radius: 8px;
+  }
+  

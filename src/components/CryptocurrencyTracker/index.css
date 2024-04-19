@@ -1,0 +1,12 @@
+/* Write your CSS here */
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  .parentDiv {
+    width: 100vw;
+    min-height: 100vh;
+    background-color: #000000;
+    padding: 0px 40px;
+  }
+  
